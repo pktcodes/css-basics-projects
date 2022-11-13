@@ -1,0 +1,16 @@
+.icon {
+    color: red;
+    font-size: 40px;
+}
+
+#first-heading {
+    color: blue;
+}
+
+#second-heading {
+    color: blue;
+}
+
+.container p {
+    color: gray;
+}
